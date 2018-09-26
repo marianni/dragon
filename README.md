@@ -1,3 +1,3 @@
-->Physical based animations and mathematical modelling 2018<-
-->Marianna Ráchelová<- 
-->Martina Bodišová<-
+## Physical based animations and mathematical modelling 2018
+# Marianna Ráchelová 
+# Martina Bodišová
