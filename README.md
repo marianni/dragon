@@ -8,7 +8,6 @@
      style="float: left; margin-right: 10px;" />
 
 <img src="2_dragon.pdf"
-     alt="Dragon"
-     style="float: left; margin-right: 10px;" />
+     alt="Dragon"/>
 
 <embed src="https://marianni.github.io/dragon/1_dragon.pdf" type="application/pdf" />
