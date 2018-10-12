@@ -10,3 +10,4 @@
 <img src="2_dragon.pdf"
      alt="Dragon"
      style="float: left; margin-right: 10px;" />
+
