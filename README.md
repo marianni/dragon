@@ -3,5 +3,10 @@
 ## Martina Bodišová
 
 # Storyboard
-![](1_dragon.pdf)
-![](2_dragon.pdf)
+<img src="1_dragon.pdf"
+     alt="Dragon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="2_dragon.pdf"
+     alt="Dragon"
+     style="float: left; margin-right: 10px;" />
