@@ -4,9 +4,6 @@
 
 # Storyboard
 
-<img src="1_dragon.pdf" alt="dragon1"  width="4200" height="4200">
-<img src="2_dragon.pdf" alt="dragon2"  width="4200" height="4200">
-
 <a href="https://marianni.github.io/dragon/1_dragon.pdf">Dragon1</a>
 <a href="https://marianni.github.io/dragon/2_dragon.pdf">Dragon2</a>
 
