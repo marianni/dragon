@@ -4,5 +4,5 @@
 
 # Storyboard
 
-<embed src="https://marianni.github.io/dragon/1_dragon.pdf" type="application/pdf" />
-<embed src="https://marianni.github.io/dragon/2_dragon.pdf" type="application/pdf" />
+<img src="1_dragon.pdf" alt="some text"  width="4200" height="4200">
+<img src="2_dragon.pdf" alt="some text"  width="4200" height="4200">
