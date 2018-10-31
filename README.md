@@ -17,3 +17,9 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 <br>
 <a href="https://marianni.github.io/dragon/2_dragon.pdf">Dragon2</a>
 
+# Diary
+
+| Date                    | Progress                                     | 
+|:------------------------|:---------------------------------------------|
+| 15/10/2018              | Finished storyboard                          | 
+| 15/10/2018 - 31/10/2018 | Looking for dragon model and learning Blender| 
