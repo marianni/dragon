@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Physical based animations and mathematical modelling 2018</title>
-</head>
-
-<body>
-The content of the document......
-</body>
-
-</html>
-
 # Physical based animations and mathematical modelling 2018
 ## Marianna Ráchelová 
 ## Martina Bodišová
