@@ -8,9 +8,7 @@ Martina Bodišová
 
 # Storyboard
 
-! [Dragon1] (https://marianni.github.io/dragon/1_dragon.pdf)
-
-! [Dragon2] (https://marianni.github.io/dragon/2_dragon.pdf)
+<img src="1_dragon.pdf" alt="Dragon 1" height="42" width="42">
 
 <a href="https://marianni.github.io/dragon/1_dragon.pdf">Dragon1</a>
 <br>
