@@ -1,6 +1,6 @@
 # Physical based animations and mathematical modelling 2018
 
-<img src="Fantasy-dragon-wallpaper.jpg" alt="Dragon" height="42" width="42">
+<img src="Fantasy-dragon-wallpaper.jpg" alt="Dragon" height="200" width="400">
 
 # Authors
 
