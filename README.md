@@ -15,7 +15,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Storyboard
 
-![Dragon](http:/marianni.github.io/dragon/storyboard.jpg
+![Dragon](http://marianni.github.io/dragon/storyboard.jpg)
 
 # Diary
 
