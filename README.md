@@ -2,10 +2,15 @@
 
 # Authors
 
-Marianna Ráchelová 
+Marianna Ráchelová
+
 Martina Bodišová
 
 # Storyboard
+
+![Dragon1] (https://marianni.github.io/dragon/1_dragon.pdf)
+
+![Dragon2] (https://marianni.github.io/dragon/2_dragon.pdf)
 
 <a href="https://marianni.github.io/dragon/1_dragon.pdf">Dragon1</a>
 <br>
