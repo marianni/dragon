@@ -1,5 +1,11 @@
 # Physical based animations and mathematical modelling 2018
 
+<nav>
+  <a href="# Authors">Authors</a> |
+  <a href="# About">About</a> |
+  <a href="# Storyboard">Storyboard</a> |
+  <a href="# Diary">Diary</a>
+</nav>
 <img src="Fantasy-dragon-wallpaper.jpg" alt="Dragon" height="500" width="1000">
 
 # Authors
