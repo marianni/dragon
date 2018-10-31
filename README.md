@@ -15,7 +15,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Storyboard
 
-<img src="storyboard.jpg" alt="Dragon" style="transform:rotate(90deg);position:relative">
+<img src="storyboard.jpg" alt="Dragon">
 
 # Diary
 
