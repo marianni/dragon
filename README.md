@@ -6,6 +6,11 @@ Marianna Ráchelová
 
 Martina Bodišová
 
+# About
+
+Create animation of a dragon floating above the huge medieval castle. Show the dragon moving its
+wings and spitting the fire. Show growing fire, show large fire, show smaller fire. Create a little story.
+
 # Storyboard
 
 <a href="https://marianni.github.io/dragon/1_dragon.pdf">Dragon1</a>
