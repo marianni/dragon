@@ -1,6 +1,6 @@
 # Physical based animations and mathematical modelling 2018
 
-![Dragon](https://marianni.github.io/dragon/Fantasy-dragon-wallpaper.jpg")
+![Fantasy-dragon-wallpaper](https://marianni.github.io/dragon/Fantasy-dragon-wallpaper.jpg")
 
 # Authors
 
