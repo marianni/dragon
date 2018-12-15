@@ -28,7 +28,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 | 30/11/2018 - 16/12/2018 | Flying dragon animation, align camera to spline path                   |
 | 16/12/2018              | Creating of rain effect using particle system. Last edits,creating demo|   
 
-<img src="scena_1" alt="Dragon" height="500" width="1000">
+<img src="scena_1.png" alt="scena_1" height="500" width="1000">
 <br>
-<img src="scena_2" alt="Dragon" height="500" width="1000">
+<img src="scena_2.png" alt="scena_2" height="500" width="1000">
 
