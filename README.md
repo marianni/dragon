@@ -37,6 +37,9 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Demos
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=bYImpFTVHck&feature=youtu.be)](https://www.youtube.com/watch?v=bYImpFTVHck)
+
+
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=bYImpFTVHck&feature=youtu.be"
 </iframe>
