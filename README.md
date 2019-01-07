@@ -44,4 +44,4 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # S3
 
-<a href="S3.pdf" download></a>
+<a href="S3.pdf" download>
