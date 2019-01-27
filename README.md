@@ -115,6 +115,8 @@ Model of dragon available here <a href="https://free3d.com/3d-model/black-dragon
 ## Dragon flight
 
 Dragon flight scene is composed by dragon's walk, raining and dragon flight. Motions of dragon are created by key frames. Rain is created by particle system. First we create mesh-plane and then we added modifier particle system. On this scene we used own model of rain drop. In particle system properties we assind this object(rain drop) to particle system modifier. 
+<br>
+[![Dragon ](http://img.youtube.com/vi/JmDwptl7bkI/0.jpg)](http://www.youtube.com/watch?v=JmDwptl7bkI "Dragon in rain")
 
 ## Dragon spitting the fire
 
