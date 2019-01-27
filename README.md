@@ -19,7 +19,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Final Animation 
 
-<a href="https://www.youtube.com/watch?v=L9laUlax2Ls&feature=youtu.be">Dragon Animation</a>
+[![Dragon](http://img.youtube.com/vi/L9laUlax2Ls/0.jpg)](http://www.youtube.com/watch?v=L9laUlax2Ls "Dragon animation")
 
 # Diary
 
