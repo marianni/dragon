@@ -61,7 +61,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 ## Physical objects
 
 13. Model of dragon egg
-14. Model o rain drop
+14. Model of rain drop
 15. Collision of objects
 
 
