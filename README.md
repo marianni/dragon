@@ -45,11 +45,9 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 ## Audio
 
-3. Main music in animation 
+3. Music used in anmation
 <br>
 <a href="https://www.youtube.com/watch?v=9P0ChcQaVkU">Main music</a>
-<br>
-### Other sounds used in animation
 <br>
 <a href="http://soundbible.com/543-Dragon-Roaring.html">Dragon Roaring Sound</a>
 <br>
