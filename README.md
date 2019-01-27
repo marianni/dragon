@@ -119,6 +119,8 @@ On final scene we created dragon's flight using key frames. Motion of object-sun
 <br>
 <img src="scena_2.png" alt="scena_2" height="500" width="1000">
 <br>
+<img src="rainDrop.png" alt="Rain_Drop" height="500" width="1000">
+<br>
 
 # Demos
 
