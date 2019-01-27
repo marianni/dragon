@@ -19,14 +19,21 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Diary
 
-| Date                    | Progress                                                               | 
-|:------------------------|:-----------------------------------------------------------------------|
-| 15/10/2018              | Finished storyboard                                                    | 
-| 15/10/2018 - 31/10/2018 | Looking for dragon model and learning Blender                          | 
-| 01/11/2018 - 15/11/2018 | Creating grass with particle system , adding wind and model of castle  |
-| 16/11/2018 - 29/11/2018 | Creating model of dragon egg, breaking egg animation                   |
-| 30/11/2018 - 16/12/2018 | Flying dragon animation, align camera to spline path                   |
-| 16/12/2018              | Creating of rain effect using particle system. Last edits,creating demo|   
+| Date                    | Progress                                                                           | 
+|:------------------------|:-----------------------------------------------------------------------------------|
+| 15/10/2018              | Finished storyboard                                                                | 
+| 15/10/2018 - 31/10/2018 | Looking for dragon model and learning Blender                                      | 
+| 01/11/2018 - 15/11/2018 | Creating grass with particle system , adding wind and model of castle              |
+| 16/11/2018 - 29/11/2018 | Creating model of dragon egg, breaking egg animation                               |
+| 30/11/2018 - 16/12/2018 | Flying dragon animation, align camera to spline path                               |
+| 16/12/2018              | Creating of rain effect using particle system. Last edits,creating demo            |
+| 02/01/2019 - 09/01/2019 | Improving of rain effect, creating model of rain drop.Improving of dragon's flight.|
+| 10/01/2019 - 17/01/2019 | Creating animation of dragon spitting the fire.                                    |
+| 18/01/2019 - 27/01/2019 | Last edits, rendering of animations, creating video.                               |
+
+
+# Used effects
+
 
 # Images
 
