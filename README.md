@@ -126,7 +126,7 @@ On this scene dragon stands on his lower legs and spitting the fire. First we cr
 
 ## Final scene 
 
-On final scene we created dragon's flight using key frames. Motion of object-sun is after spline. Motion of camera is cretaed by key frames.
+On final scene we created dragon's flight using key frames. Motion of object-sun is after spline. Motion of camera is created by key frames.
 <br>
 [![Dragon ](http://img.youtube.com/vi/0Vz2eb7eVsw/0.jpg)](http://www.youtube.com/watch?v=0Vz2eb7eVsw "Dragon final scene")
 
