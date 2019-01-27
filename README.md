@@ -47,6 +47,8 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 3. Main music in animation 
 <br>
+<a href="https://www.youtube.com/watch?v=9P0ChcQaVkU"></a>
+<br>
 Other sounds used in animation
 <br>
 <a href="https://www.youtube.com/watch?v=9P0ChcQaVkU"></a>
@@ -109,6 +111,8 @@ Dragon flight scene is composed by dragon's walk, raining and dragon flight. Mot
 On this scene dragon stands on his lower legs and spitting the fire. First we create object-fire and smoke domain. To object fire we added modifier Smoke. We set to this modifier Flow type - fire. To smoke domain we add modifier Smoke as well. We set Smoke type to "Domain". In the property "Smoke cache" we used "Bake", to make fire effect visible. Render baking is pre-computing something in order to speed up some other process later down the line.
 
 ## Final scene 
+
+On final scene we created dragon's flight using key frames. Motion of object-sun is after spline. Motion of camera is cretaed by key frames.
 
 # Images
 
