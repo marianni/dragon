@@ -79,17 +79,21 @@ We created simple model of dragon egg. We tried to use the cell fraction to brea
 <br>
 Next we created green grass using Particle system. First we added new mesh - plane. To this plane we add modifier particle system. We set up some properties like type of material - dirt and grass, type of particle system - hair, hair-length etc.
 On the grass we can see the wind is blowing.
-<br>
-<br>
-<a href="https://www.youtube.com/watch?v=rJGbwv8OGSw&feature=youtu.be">Dragon egg view</a>
 
 ## Dragon egg view and egg's cracks
 
+On this scene we were using camera motion after the spline. Scene where are showing egg's cracks we were using key frames to create camera motion. 
+
 ## Newborn dragon
+
+On the third scene we can see newborn dragon. Motion of dragon is created by key frames.
 
 ## Dragon flight
 
+Dragon flight scene is composed by dragon's walk, raining and dragon flight. Motions of dragon are created by key frames. Rain is created by particle system. First we create mesh-plane and then we added modifier particle system. On this scene we used own model of rain drop. In particle system properties we assind this object(rain drop) to particle system modifier. 
+
 ## Dragon spitting the fire
+
 
 ## Final scene 
 
