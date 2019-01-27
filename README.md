@@ -109,6 +109,8 @@ On this scene we were using camera motion after the spline. Scene where are show
 On the third scene we can see newborn dragon. Motion of dragon is created by key frames.
 <br>
 Model of dragon available here <a href="https://free3d.com/3d-model/black-dragon-rigged-and-game-ready-92023.html">Dragon Model</a>
+<br>
+[![Dragon ](http://img.youtube.com/vi/KW-zvK89agM/0.jpg)](http://www.youtube.com/watch?v=KW-zvK89agM "Dragon")
 
 ## Dragon flight
 
