@@ -19,6 +19,9 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Final Animation 
 
+Click below to play animation
+
+
 [![Dragon](http://img.youtube.com/vi/L9laUlax2Ls/0.jpg)](http://www.youtube.com/watch?v=L9laUlax2Ls "Dragon animation")
 
 # Diary
@@ -126,11 +129,9 @@ On final scene we created dragon's flight using key frames. Motion of object-sun
 
 # Demos
 
-<a href="https://www.youtube.com/watch?v=bYImpFTVHck&feature=youtu.be">Dragon fly</a>
+[![Dragon](http://img.youtube.com/vi/bYImpFTVHck/0.jpg)](http://www.youtube.com/watch?v=bYImpFTVHck "Dragon flight")
 
-
-<a href="https://www.youtube.com/watch?v=Ii3bCEb9IdM&feature=youtu.be">Castle</a>
-
+[![Castle](http://img.youtube.com/vi/Ii3bCEb9IdM/0.jpg)](http://www.youtube.com/watch?v=Ii3bCEb9IdM "Castle and dragon egg ")
 # S3 theme
 
 <a href="S3.pdf" download="S3">S3</a>
