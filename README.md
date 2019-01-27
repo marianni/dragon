@@ -70,7 +70,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 We used the model of the castle from internet. Link available here <a href="https://free3d.com/3d-model/fantasy-castle-40715.html">Castle model</a>.
 <br>
-We created simple model of dragon egg. We tried to use the cell fraction to break the egg. Cell fraction is special add on using to break the object's surface. This add on use the Woronoi algorithm for breaking surface as well. Unfortunately this add on is using Blender game engine and this kind of add on is incompatible with Particle system. Engine is used for rendering. We decided to not include dragon egg cracking surface in final animation. 
+We created simple model of dragon egg. We tried to use the cell fraction to break the egg. Cell fraction is special add on using to break the object's surface. This add on use the Woronoi algorithm for breaking surface as well. Unfortunately this add on is using Blender game engine and this kind of add on is incompatible with Particle system. Engine is used for rendering. We decided to not include cracking surface of dragon's egg in final animation. 
 <br>
 Next we created green grass using Particle system. First we added new mesh - plane. To this plane we add modifier particle system. We set up some properties like type of material - dirt and grass, type of particle system - hair, hair-length etc.
 On the grass we can see the wind is blowing.
