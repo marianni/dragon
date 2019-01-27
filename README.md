@@ -99,6 +99,10 @@ On the grass we can see the wind is blowing.
 ## Dragon egg view and egg's cracks
 
 On this scene we were using camera motion after the spline. Scene where are showing egg's cracks we were using key frames to create camera motion. 
+<br>
+[![Dragon egg](http://img.youtube.com/vi/X48FoUr4dAo/0.jpg)](http://www.youtube.com/watch?v=X48FoUr4dAo "Around dragon egg ")
+<br>
+[![Dragon egg](http://img.youtube.com/vi/1dtBZ4CVHAw/0.jpg)](http://www.youtube.com/watch?v=1dtBZ4CVHAw "Egg cracks")
 
 ## Newborn dragon
 
