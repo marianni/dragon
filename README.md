@@ -45,7 +45,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 ## Audio
 
-3. Music used in anmation
+3. Music used in animation
 <br>
 <a href="https://www.youtube.com/watch?v=9P0ChcQaVkU">Main music</a>
 <br>
