@@ -47,16 +47,15 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 3. Main music in animation 
 <br>
-<a href="https://www.youtube.com/watch?v=9P0ChcQaVkU"></a>
+<a href="https://www.youtube.com/watch?v=9P0ChcQaVkU">Main music</a>
 <br>
 Other sounds used in animation
 <br>
-<a href="https://www.youtube.com/watch?v=9P0ChcQaVkU"></a>
-<a href="http://soundbible.com/543-Dragon-Roaring.html"></a>
-<a href="http://www.orangefreesounds.com/light-rain-and-thunder-sounds/"></a>
-<a href="https://www.soundjay.com/nature/sounds/wind-howl-01.mp3"></a>
-<a href="http://soundbible.com/2127-Dragon-Fire-Breath-and-Roar.html"></a>
-<a href="http://soundbible.com/32-Short-Egg-Cracking.html"></a>
+<a href="http://soundbible.com/543-Dragon-Roaring.html">Dragon Roaring Sound</a>
+<a href="http://www.orangefreesounds.com/light-rain-and-thunder-sounds/">Light Rain And Thunder Sounds</a>
+<a href="https://www.soundjay.com/nature/sounds/wind-howl-01.mp3">Wind howl</a>
+<a href="http://soundbible.com/2127-Dragon-Fire-Breath-and-Roar.html">Dragon Fire Breath and Roar Sound</a>
+<a href="http://soundbible.com/32-Short-Egg-Cracking.html">Short Egg Cracking Sound</a>
 
 
 ## Motion
