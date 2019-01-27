@@ -79,6 +79,16 @@ On the grass we can see the wind is blowing.
 <br>
 <a href="https://www.youtube.com/watch?v=rJGbwv8OGSw&feature=youtu.be">Dragon egg view</a>
 
+## Dragon egg view and egg's cracks
+
+## Newborn dragon
+
+## Dragon flight
+
+## Dragon spitting the fire
+
+## Final scene 
+
 # Images
 
 <img src="scena_1.png" alt="scena_1" height="500" width="1000">
