@@ -17,6 +17,10 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 ![Dragon](http://marianni.github.io/dragon/storyboard.jpg)
 
+# Final Animation 
+
+<a href="https://www.youtube.com/watch?v=L9laUlax2Ls&feature=youtu.be">Dragon Animation</a>
+
 # Diary
 
 | Date                    | Progress                                                                           | 
