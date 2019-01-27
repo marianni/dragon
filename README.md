@@ -45,7 +45,17 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 ## Audio
 
-3. 
+3. Main music in animation 
+<br>
+Other sounds used in animation
+<br>
+<a href="https://www.youtube.com/watch?v=9P0ChcQaVkU"></a>
+<a href="http://soundbible.com/543-Dragon-Roaring.html"></a>
+<a href="http://www.orangefreesounds.com/light-rain-and-thunder-sounds/"></a>
+<a href="https://www.soundjay.com/nature/sounds/wind-howl-01.mp3"></a>
+<a href="http://soundbible.com/2127-Dragon-Fire-Breath-and-Roar.html"></a>
+<a href="http://soundbible.com/32-Short-Egg-Cracking.html"></a>
+
 
 ## Motion
 
@@ -87,6 +97,8 @@ On this scene we were using camera motion after the spline. Scene where are show
 ## Newborn dragon
 
 On the third scene we can see newborn dragon. Motion of dragon is created by key frames.
+<br>
+Model of dragon available here <a href="https://free3d.com/3d-model/black-dragon-rigged-and-game-ready-92023.html">Dragon Model</a>
 
 ## Dragon flight
 
@@ -94,6 +106,7 @@ Dragon flight scene is composed by dragon's walk, raining and dragon flight. Mot
 
 ## Dragon spitting the fire
 
+On this scene dragon stands on his lower legs and spitting the fire. First we create object-fire and smoke domain. To object fire we added modifier Smoke. We set to this modifier Flow type - fire. To smoke domain we add modifier Smoke as well. We set Smoke type to "Domain". In the property "Smoke cache" we used "Bake", to make fire effect visible. Render baking is pre-computing something in order to speed up some other process later down the line.
 
 ## Final scene 
 
