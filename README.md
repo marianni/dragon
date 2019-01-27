@@ -121,6 +121,8 @@ Dragon flight scene is composed by dragon's walk, raining and dragon flight. Mot
 ## Dragon spitting the fire
 
 On this scene dragon stands on his lower legs and spitting the fire. First we create object-fire and smoke domain. To object fire we added modifier Smoke. We set to this modifier Flow type - fire. To smoke domain we add modifier Smoke as well. We set Smoke type to "Domain". In the property "Smoke cache" we used "Bake", to make fire effect visible. Render baking is pre-computing something in order to speed up some other process later down the line.
+<br>
+[![Dragon ](http://img.youtube.com/vi/zlGfgvM783o/0.jpg)](http://www.youtube.com/watch?v=zlGfgvM783o "Dragon spitting fire")
 
 ## Final scene 
 
