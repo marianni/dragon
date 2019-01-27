@@ -68,7 +68,7 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 ## Dragon egg view
 
-We used the model of the castle from internet. Link available here <a href="https://free3d.com/3d-model/fantasy-castle-40715.html">Castle model"</a>.
+We used the model of the castle from internet. Link available here <a href="https://free3d.com/3d-model/fantasy-castle-40715.html">Castle model</a>.
 <br>
 We created simple model of dragon egg. We tried to use the cell fraction to break the egg. Cell fraction is special add on using to break the object's surface. This add on use the Woronoi algorithm for breaking surface as well. Unfortunately this add on is using Blender game engine and this kind of engine is incompatible with Cycles Render engine. Engine is used for rendering. We decided to not include dragon egg cracking surface in final animation. 
 <br>
