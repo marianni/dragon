@@ -34,6 +34,36 @@ wings and spitting the fire. Show growing fire, show large fire, show smaller fi
 
 # Used effects
 
+## Rendering
+
+1. Quality texture on objects
+2. Good gloss on surface
+
+## Audio
+
+3. 
+
+## Motion
+
+4. Object's motion after the spline 
+5. Camera motion after the spline
+6. Sun motion after the spline
+7. Dragon flight
+8. Dragon walk
+
+## Physically natural effects
+
+9. Rain 
+10. Wind
+11. Collision liquid and object 
+12. Grass with hair
+
+## Physical objects
+
+13. Model of dragon egg
+14. Model o rain drop
+15. Collision of objects
+
 
 # Images
 
